@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "./main.73cb500f.iframe.bundle.js",
+    "runtime~main.js": "./runtime~main.59ad9f83.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.40f90abe.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.40f90abe.iframe.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "vendors~main.40f90abe.iframe.bundle.js.LICENSE.txt": "./vendors~main.40f90abe.iframe.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.59ad9f83.iframe.bundle.js",
+    "vendors~main.40f90abe.iframe.bundle.js",
+    "main.73cb500f.iframe.bundle.js"
+  ]
+}
